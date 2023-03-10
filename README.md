@@ -1,4 +1,4 @@
-# wk3-challenge-allen
+# generate-password-app
 
 ## Description
 
