@@ -1,4 +1,4 @@
-# wk3-challenge-allen
+# generate-password-app
 
 ## Description
 
@@ -21,7 +21,7 @@ n/a
 
 ## Usage
 
-Navigate to https://allentpogi.github.io/wk2-challenge-allen/ to visit the end result.
+Navigate to https://allentpogi.github.io/generate-password-app/ to visit the end result.
 
 The website looks like this:
 
